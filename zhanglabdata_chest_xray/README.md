@@ -16,7 +16,7 @@ The dataset leverages transfer learning techniques and highlights areas identifi
   - **PNEUMONIA_VIRUS**: 1,493
   - **NORMAL**: 1,583
     
-*Note: The train.zip and test.zip file provided in this repository contain only a sample of the full dataset, consisting of 896 training images and 104 testing images. These images are already formatted for direct upload and use in the Anylearning app. For access to the full dataset, please refer to the download section.*
+*Note: The train.zip and test.zip file provided in this repository contain only a sample of the full dataset, consisting of 139 training images and 42 testing images. These images are already formatted for direct upload and use in the Anylearning app. For access to the full dataset, please refer to the download section.*
 
 ## License
 The dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
