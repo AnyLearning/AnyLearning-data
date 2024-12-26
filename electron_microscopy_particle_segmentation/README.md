@@ -8,7 +8,7 @@
 ## Data Processing
 
 - Download and extract the dataset from [datasetninja.com](datasetninja.com)
-- Convert to AnyLabeling format. Each valid train/val/test folder should contains image files with coresponding json annotations. See the below example for the structure of the a json annotation file.
+- Convert to AnyLabeling format. Each valid train/val/test folder should contain images with coresponding json annotations. An image and its corresponding json annotation file share the same name. See the below example for the structure of the a json annotation file.
 ```json
 {
   "version": "4.2.10",
