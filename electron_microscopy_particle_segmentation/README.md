@@ -1,9 +1,13 @@
 # Electron Microscopy Particle Segmentation
 
-- **Dataset**: [Electron Microscopy Particle Segmentation]().
+- **Dataset**: A subset from [Electron Microscopy Particle Segmentation]().
 - **Dataset License**: CC BY 4.0
 - **Task**: Semantic Segmentation
 - **Metrics**: IOU
+
+## Data split
+- Training set: 49 images
+- Validation set: 22 images
 
 ## Data Processing
 
